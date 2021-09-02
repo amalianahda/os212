@@ -2,7 +2,8 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 ZCZC W00 20 L03 GitHub related
-ZCZC W00 100 L02 ZOOM meetings related
+ZCZC W00 100 L02 Attend OS ZOOM Class
 ZCZC W00 20 L09 Assignment in General
-ZCZC W00 90 L80 Watch Horror Movie
+ZCZC W00 90 L80 Watch Horror Movie (The Eye)
 ZCZC W00 90 L70 Do Linear Algebra and MPPI Forums
+ZCZC W00 30 LO2 Attend OS ZOOM Class
