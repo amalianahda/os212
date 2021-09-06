@@ -6,4 +6,5 @@ ZCZC W00 100 L02 Attend OS ZOOM Class
 ZCZC W00 20 L09 Assignment in General
 ZCZC W00 90 L80 Watch Horror Movie (The Eye)
 ZCZC W00 90 L70 Do Linear Algebra and MPPI Forums
-ZCZC W00 30 LO2 Attend OS ZOOM Class
+ZCZC W00 30 L02 Attend OS ZOOM Class
+ZCZC W01 5 L05 OS Quiz
