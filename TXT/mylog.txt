@@ -22,3 +22,4 @@ ZCZC W02 20 L05 OS Quiz
 ZCZC W02 100 L02 Attend OS ZOOM Class
 ZCZC W02 60 L09 Assignment week 2
 ZCZC W02 30 L08 Assistance
+ZCZC W02 60 L28 Putty things
