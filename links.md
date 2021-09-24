@@ -2,7 +2,7 @@
 permalink: /LINKS/
 ---
 
-[![HOME](https://img.shields.io/badge/-HOME-C6DBDA?style=for-the-badge&logoColor=white)](https://amalianahda.github.io.os212/)
+[![HOME](https://img.shields.io/badge/-HOME-C6DBDA?style=for-the-badge&logoColor=white)](https://amalianahda.github.io/os212/)
 [![LOG](https://img.shields.io/badge/-LOG-FF96BA?style=for-the-badge&logoColor=white)](https://github.com/amalianahda/os212/blob/master/TXT/mylog.txt)
 [![LINKS](https://img.shields.io/badge/-LINKS-55CBCD?style=for-the-badge&logoColor=white)](https://github.com/amalianahda/os212/blob/master/links.md)
 [![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amalianahda/os212/)
