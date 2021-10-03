@@ -30,3 +30,8 @@ ZCZC W03 540 L80 Watch Squid Game
 ZCZC W03 30 L01 OS Forum
 ZCZC W03 30 L32 YouTube : study
 ZCZC W03 20 L04 GitHub Pages related
+ZCZC W04 20 L22 OS Quiz
+ZCZC W04 100 L02 Attend OS ZOOM Class
+ZCZC W04 30 L01 OS Forum
+ZCZC W04 60 L09 Assignment week 4
+ZCZC W04 45 L05 OS Quiz related

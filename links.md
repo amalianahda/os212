@@ -21,3 +21,6 @@ This video explains the fundamentals of C Programming, comes with detailed expla
 This video tells us about how computers read and interpret computer files, how files are encoded and decoded, and how computers organize these data. This video comes with eye-catching animations and great explanations!
 ### 2. [Linux File System](https://www.youtube.com/watch?v=HbgzrKJvDRw)
 This video explains and shows us the linux file structure in 15 minutes. Comes with great explanations and suits those who are still confused with linux file system.
+## Week 04
+### 1. [Little Endian and Big Endian](https://www.youtube.com/watch?v=T1C9Kj_78ek)
+This 3 minute video clearly explains the difference between little endian and big endian in order to store a block of bytes in memory. 
