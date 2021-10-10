@@ -35,3 +35,9 @@ ZCZC W04 100 L02 Attend OS ZOOM Class
 ZCZC W04 30 L01 OS Forum
 ZCZC W04 60 L09 Assignment week 4
 ZCZC W04 45 L05 OS Quiz related
+ZCZC W05 20 L22 OS Quiz
+ZCZC W05 100 L02 Attend OS ZOOM Class
+ZCZC W05 120 L09 Assignment week 5
+ZCZC W05 20 L01 OS Forum
+ZCZC W05 40 L05 OS Quiz related
+ZCZC W05 30 L06 GSGS about virtual memory

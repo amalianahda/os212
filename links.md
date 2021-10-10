@@ -24,3 +24,6 @@ This video explains and shows us the linux file structure in 15 minutes. Comes w
 ## Week 04
 ### 1. [Little Endian and Big Endian](https://www.youtube.com/watch?v=T1C9Kj_78ek)
 This 3 minute video clearly explains the difference between little endian and big endian in order to store a block of bytes in memory. 
+## Week 05
+### 1. [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)
+This article talks about virtual memory in operating system. Comes with several pictures to visualize the concept of virtual memory.
