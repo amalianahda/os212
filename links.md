@@ -27,3 +27,8 @@ This 3 minute video clearly explains the difference between little endian and bi
 ## Week 05
 ### 1. [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)
 This article talks about virtual memory in operating system. Comes with several pictures to visualize the concept of virtual memory.
+## Week 06
+### 1. [Process Management(Processes and Threads)](https://www.youtube.com/watch?v=OrM7nZcxXZU)
+This video discusses about process management and difference between processes and threads. 
+### 2. [Concurrency, Threading, and Parallelism](https://www.youtube.com/watch?v=olYdb0DdGtM)
+This video explains brief informations about thread, what a thread is, how a thread works. This video also explains the difference between concurrency and parallelism.
