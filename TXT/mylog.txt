@@ -45,3 +45,10 @@ ZCZC W06 20 L22 OS Quiz
 ZCZC W06 100 L02 Attend OS ZOOM Class
 ZCZC W06 60 L09 Assignment week 6
 ZCZC W06 20 L32 YouTube : study
+ZCZC W07 20 L22 OS Quiz
+ZCZC W07 100 L02 Attend OS ZOOM Class
+ZCZC W07 60 L09 Assignment week 7
+ZCZC W07 30 L05 OS Quiz related
+ZCZC W07 45 L06 GSGS links related
+ZCZC W07 20 L32 YouTube : study
+ZCZC W07 30 L01 OS Forum

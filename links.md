@@ -32,3 +32,8 @@ This article talks about virtual memory in operating system. Comes with several 
 This video discusses about process management and difference between processes and threads. 
 ### 2. [Concurrency, Threading, and Parallelism](https://www.youtube.com/watch?v=olYdb0DdGtM)
 This video explains brief informations about thread, what a thread is, how a thread works. This video also explains the difference between concurrency and parallelism.
+## Week 07
+### 1. [Introduction of Deadlock in Operating System](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)
+This article explains about deadlock in operating system. Comes with pictures to visualize.
+### 2. [Synchronization in Operating System](https://www.youtube.com/watch?v=ph2awKa8r5Y)
+This video tells us about the process of synchronization. Comes with great explanations.
